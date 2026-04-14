@@ -4,9 +4,7 @@
 
 * **Challenge Name:** R0ckstar!
 * **Category:** Cryptography
-* **CTF:** SoterCTF / Palcam CyberGames 2026
-* **Difficulty:** Medium
-* **Author:** iHarzz
+
 * **Final Flag:** `SoterCTF{Shr1nk1ng_g3n_bre4kabl3}`
 
 ---
