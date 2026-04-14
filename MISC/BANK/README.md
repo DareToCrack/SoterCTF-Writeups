@@ -1,12 +1,9 @@
 # 🧩 Bank — Writeup
-
 ## 📌 Challenge Information
+
 
 * **Challenge Name:** Bank
 * **Category:** MISC
-* **CTF:** SoterCTF / Palcam CyberGames 2026
-* **Difficulty:** Medium
-* **Author:** D3bo
 * **Final Flag:** `SoterCTF{4a14fd9fb604ba66bbe326c84f0bdbe3}`
 
 ---
