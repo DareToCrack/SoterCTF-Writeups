@@ -4,9 +4,7 @@
 
 * **Challenge Name:** Deep Fried Discovery
 * **Category:** OSINT
-* **CTF:** SoterCTF / Palcam CyberGames 2026
-* **Difficulty:** Easy
-* **Author:** kbaa
+* 
 * **Final Flag:** `SoterCTF{Lluís_Domènech_i_Montaner}`
 
 ---
