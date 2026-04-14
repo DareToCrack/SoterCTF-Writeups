@@ -3,10 +3,7 @@
 ## 📌 Challenge Information
 
 * **Challenge Name:** Random Moon Base
-* **Category:** Cryptography
-* **CTF:** SoterCTF / Palcam CyberGames 2026
-* **Difficulty:** Hard
-* **Author:** D3bo
+
 * **Final Flag:** `SoterCTF{53ee28c58aa7af4b57720b7d3c508c27}` 
 
 ---
