@@ -228,6 +228,7 @@ tapsB = [0, 1, 4, 14]
 
 ```text id="t5x9vb"
 SoterCTF{Shr1nk1ng_g3n_bre4kabl3}
+```
 
 [solver.py](https://github.com/user-attachments/files/26717092/solver.py)
 <img width="1048" height="761" alt="image" src="https://github.com/user-attachments/assets/ecfb8e11-adb1-485e-8505-b08fac5e8684" />
