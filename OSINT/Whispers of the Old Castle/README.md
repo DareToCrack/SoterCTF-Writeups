@@ -1,12 +1,9 @@
-<img width="1688" height="953" alt="image" src="https://github.com/user-attachments/assets/8d3c13ca-93e6-451f-97d4-b96f5b914cb9" /># 🧩 Whispers of the Old Castle — Writeup
+# 🧩 Whispers of the Old Castle — Writeup
 
 ## 📌 Challenge Information
 
 * **Challenge Name:** Whispers of the Old Castle
 * **Category:** OSINT
-* **CTF:** SoterCTF / Palcam CyberGames 2026
-* **Difficulty:** Medium
-* **Author:** kbaa
 
 ---
 
