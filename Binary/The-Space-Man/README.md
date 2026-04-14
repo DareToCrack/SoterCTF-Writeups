@@ -1,3 +1,5 @@
+[Assembly-CSharp.txt](https://github.com/user-attachments/files/26713726/Assembly-CSharp.txt)
+[Assembly-CSharp.txt](https://github.com/user-attachments/files/26713676/Assembly-CSharp.txt)
 # 🧩 The Space Man — Writeup
 
 ## 📌 Challenge Information
@@ -256,4 +258,6 @@ A great reminder that understanding the application structure is often more usef
 SoterCTF{D3fen5E_s1ST3m_dI55aBled}
 ```
 
+[Uploading Assembly-CSharp.txt…]() 
+<img width="1022" height="731" alt="image" src="https://github.com/user-attachments/assets/73ef461c-0fa5-4f51-ab17-adabf2bdb719" />
 
