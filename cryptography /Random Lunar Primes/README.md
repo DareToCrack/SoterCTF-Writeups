@@ -4,9 +4,7 @@
 
 * **Challenge Name:** Random Lunar Primes
 * **Category:** Cryptography
-* **CTF:** SoterCTF / Palcam CyberGames 2026
-* **Difficulty:** Medium
-* **Author:** D3bo
+
 * **Final Flag:** `SoterCTF{469525900a94cba223d5d3c4e0581b42}`
 
 ---
