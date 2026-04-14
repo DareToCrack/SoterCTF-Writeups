@@ -6,8 +6,7 @@
 
 * **Challenge Name:** The Space Man
 * **Category:** Reverse Engineering
-* **CTF:** SoterCTF / Palcam CyberGames 2026
-* **Difficulty:** Beginner
+
 * **Final Flag:** `SoterCTF{D3fen5E_s1ST3m_dI55aBled}`
 
 ---
