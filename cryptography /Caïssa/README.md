@@ -4,9 +4,7 @@
 
 * **Challenge Name:** Caïssa
 * **Category:** Cryptography
-* **CTF:** SoterCTF / Palcam CyberGames 2026
-* **Difficulty:** Medium
-* **Author:** D3bo
+  
 * **Final Flag:** `SoterCTF{6171776965686A313233}`
 
 ---
